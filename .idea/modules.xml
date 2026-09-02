@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/langgraph-course.iml" filepath="$PROJECT_DIR$/.idea/langgraph-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/reflection-agent.iml" filepath="$PROJECT_DIR$/.idea/reflection-agent.iml" />
     </modules>
   </component>
 </project>
